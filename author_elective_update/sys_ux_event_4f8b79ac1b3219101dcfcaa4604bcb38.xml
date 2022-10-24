@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description>My updater</description>
+        <event_name>MYUPDATER</event_name>
+        <interfaces/>
+        <label>MyUpdater</label>
+        <props>[{"name":"myQueryStr","fieldType":"string","label":"My Query String","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false},{"name":"myTitleStr","fieldType":"string","label":"My Title String","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
+        <required_translations>[ {
+  "message" : "My Query String",
+  "comment" : ""
+}, {
+  "message" : "My Title String",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 07:03:38</sys_created_on>
+        <sys_id>4f8b79ac1b3219101dcfcaa4604bcb38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyUpdater</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_event_4f8b79ac1b3219101dcfcaa4604bcb38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-24 07:03:38</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=4f8b79ac1b3219101dcfcaa4604bcb38"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f849133edb4c34107527d7c8f49619b8</instance_id>
+        <instance_name>dev116573</instance_name>
+        <name>sys_ux_event_4f8b79ac1b3219101dcfcaa4604bcb38</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description>My updater</description><event_name>MYUPDATER</event_name><interfaces/><label>MyUpdater</label><props>[{"name":"myQueryStr","fieldType":"string","label":"My Query String","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false},{"name":"myTitleStr","fieldType":"string","label":"My Title String","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props><required_translations>[ {
+  "message" : "My Query String",
+  "comment" : ""
+}, {
+  "message" : "My Title String",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-24 07:03:38</sys_created_on><sys_id>4f8b79ac1b3219101dcfcaa4604bcb38</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MyUpdater</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_event_4f8b79ac1b3219101dcfcaa4604bcb38</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-24 07:03:38</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=4f8b79ac1b3219101dcfcaa4604bcb38"/></record_update>]]></payload>
+        <payload_hash>-641488079</payload_hash>
+        <record_name>MyUpdater</record_name>
+        <reverted_from/>
+        <source>e3791a6f1b2a15101dcfcaa4604bcb64</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 07:03:39</sys_created_on>
+        <sys_id>038b79ac1b3219101dcfcaa4604bcb3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18408cdd8fb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-24 07:03:39</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>4b8b79ac623219102fa7a2a5ea425a3a</update_guid>
+        <update_guid_history>4b8b79ac623219102fa7a2a5ea425a3a:-641488079</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-24 12:09:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>029885b6fd91403181557714fa684321</sys_id>
+        <sys_metadata>4f8b79ac1b3219101dcfcaa4604bcb38</sys_metadata>
+        <sys_name>MyUpdater</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_event_4f8b79ac1b3219101dcfcaa4604bcb38</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_4f8b79ac1b3219101dcfcaa4604bcb38">038b79ac1b3219101dcfcaa4604bcb3b</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
